@@ -22,3 +22,7 @@ WhiteLily is built from scratch as a solo project to explore the depths of x86-6
 ## Author
 Developed by **Senadexia**. 
 *This project is a result of independent research into low-level system security.*
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/67a54615-7ab0-4069-ac95-d53b44119a8c" />
+
+(sorry that hyper-v interface on russian it says that VM is work and loaded on 4%)
+<img width="1118" height="551" alt="image" src="https://github.com/user-attachments/assets/6749dedb-7262-403f-9e23-1ea314f38f3f" />
